@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246449555708",
+    "project_id": "verifyemailfire",
+    "storage_bucket": "verifyemailfire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246449555708:android:b8888a4a22c03bf557ef79",
+        "android_client_info": {
+          "package_name": "com.anush.verifyemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Tk8DB0RNHBJzoa-qH-SS87SEQuJ6Ols"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

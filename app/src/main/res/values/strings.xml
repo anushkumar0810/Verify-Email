@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Verify Email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="resend_verification">Resend Verification Email</string>
+</resources>
