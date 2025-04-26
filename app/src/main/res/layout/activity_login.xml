@@ -21,4 +21,35 @@
     <TextView android:id="@+id/gotoSignup" android:text="Don't have an account? Sign Up"
         android:textColor="@color/purple_500" android:paddingTop="16dp"
         android:layout_width="wrap_content" android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/phoneEt"
+        android:hint="Enter phone number"
+        android:inputType="phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/otpEt"
+        android:hint="Enter OTP"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/sendOtpBtn"
+        android:text="Send OTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/checkOtpBtn"
+        android:text="Check OTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
+
 </LinearLayout>
